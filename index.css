@@ -9,14 +9,14 @@ html{
      background-color: rgba(0, 0, 0, 0);
 }
 body{
-    background: url('https://github.com/Bhavik-1729/Clock/blob/main/bg.jpg') no-repeat;
+    background: url('bg.jpg') no-repeat;
     background-size: 100%;
     position: relative;
 }
 
 .red{
     background-color: red;
-    background: url('https://github.com/Bhavik-1729/Clock/blob/main/stage.jpg') no-repeat;
+    background: url('stage.jpg') no-repeat;
     background-size: 111%;
     height: 100%;
     position: fixed;
@@ -41,7 +41,7 @@ body{
 }
 .clock{
     margin: 3% auto 3% auto;
-    background-image: url('https://github.com/Bhavik-1729/Clock/blob/main/clock.png');
+    background-image: url('clock.png');
     height: 40vw;
     width: 40vw;
     background-size: 100%;
